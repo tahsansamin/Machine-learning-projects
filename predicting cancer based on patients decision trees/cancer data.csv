@@ -1,0 +1,7 @@
+name,cholestrol,gender,over_40,cancer_results
+Dhumbu,yes,M,Y,Positive
+gundu,yes,M,N,Positive
+Pinthu,no,F,Y,Positive
+soosoo,no,M,Y,Negative
+poopoo,yes,M,N,Negative
+SpongeTom,no,F,Y,Positive
